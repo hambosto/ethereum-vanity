@@ -18,7 +18,7 @@ This Rust-based tool generates Ethereum wallets with customizable addresses base
 
 1. Clone this repository:
    ```
-   git clone https://github.com/hambosto/ethereum-vanity-rs.git
+   git clone https://github.com/hambosto/ethereum-vanity.git
    cd ethereum-vanity-rs
    ```
 
